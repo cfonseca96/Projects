@@ -30,3 +30,4 @@ FULL OUTER JOIN  [Orders] O
 WHERE o.order_id is not null
 GROUP BY w.warehouse_alias, w.state
 ORDER BY 2 DESC
+ 
