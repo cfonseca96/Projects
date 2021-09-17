@@ -1,4 +1,4 @@
-use Google
+use Database
 go 
 
 -- tables used
